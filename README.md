@@ -63,14 +63,7 @@ The project evaluates several machine learning models, including Logistic Regres
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 This project is based on the Heart Disease UCI dataset available at the UCI Machine Learning Repository. Special thanks to the contributors of this dataset and the open-source community for providing tools and resources that made this project possible.
 
----
-
-Feel free to customize this README file further to match your specific project details and requirements.
